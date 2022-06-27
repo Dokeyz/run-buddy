@@ -8,6 +8,6 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://Dokeyz.github.io/run-buddy/
 
 ## Contribution
